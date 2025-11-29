@@ -122,10 +122,11 @@ const Register = () => {
                 </div>
             </Box>
             <div style={{ position: "absolute", bottom: "10px", right: "10px" }}>
-                <Typography style={{ fontFamily: "Poppins", fontWeight: "600" }}>- நந்தகுமார்</Typography>
+                <Typography style={{ fontFamily: "Poppins", fontWeight: "600" }}>- வெற்றிவேல்</Typography>
             </div>
         </>
     );
 };
 
 export default Register;
+
